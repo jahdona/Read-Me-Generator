@@ -56,6 +56,16 @@ SO THAT I can quickly create a professional README for a new project
 Open a terminal or a command prompt, and then using command navigate according to the path and reach to the folder containing the project then open the file by using the following command [node index.js]. Once the node is installed and requirer version 8.2.4 are installed you will be asked to respond to the questions after responding a question press enter to go the next question till the end where successful message of file created will be displayed
 
 ```
+## Mock Up
+
+The following images show the web application's appearance and functionality:
+
+* The image below shows the terminal and answers provided from different questions and so the successful message of the file creation
+
+    ![](./images/Function.png)
+
+* The image below shows the README FILE CREATED OUT OF THE ANSWER PROVIDED
+    ![](./images/filecrated.png)
 ## Authors and Contributors
 
 ```md
