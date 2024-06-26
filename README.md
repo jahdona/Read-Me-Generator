@@ -80,7 +80,7 @@ This application is under the License of MIT
 
 For more details Click on License Badge   
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ## Github Repository Link
 
 [Github Repository Link](https://github.com/jahdona/Read-Me-Generator)
