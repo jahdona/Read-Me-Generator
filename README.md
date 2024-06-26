@@ -77,6 +77,10 @@ This Application is designed and implemented by Jean de Dieu Habiyaremye, a 2024
 ```md
 This application is under the License of MIT
 ```
+
+For more details Click on License Badge   
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Github Repository Link
 
 [Github Repository Link](https://github.com/jahdona/Read-Me-Generator)

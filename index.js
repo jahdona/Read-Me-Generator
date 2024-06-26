@@ -4,7 +4,7 @@ const { writeFile } = require('fs').promises;
 
 
 // TODO: Create a function to write README file
-const createReadme = ({ gname, description, ustory, acceptance,installation,usage,githublink,email,phone,contributor,license }) => {  return `
+const createReadme = ({ gname, description, ustory, acceptance,installation,usage,githublink,email,phone,contributor,license}) => {  return `
 # ${gname}
 
 ## Description
@@ -41,6 +41,9 @@ ${installation}
 
 ${usage}
 
+## Tests
+
+
 ## Github Repository Link
 
 [Github Repository Link](${githublink})
@@ -49,6 +52,8 @@ ${usage}
 
 This application is under the License of ${license}
 
+Click on the license Badge for more details on the ${license}
+[![License Badge: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/${license})
 ## Contact Me
 
 For further details contact me through phone ${phone} and on my Email: ${email}

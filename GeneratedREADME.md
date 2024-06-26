@@ -1,9 +1,9 @@
 
-# Read Me Generator
+# READ ME GENERATOR
 
 ## Description
 
-Read Me Generator is an application that customized user readme by responding to a set of questions and a read me file is created
+It mn,m,m,mv
 
 ## Table of Contents
 
@@ -21,33 +21,34 @@ Read Me Generator is an application that customized user readme by responding to
 
 ## User Story
 
-As a developer I want an application that prompt the question So that after respond to question a read me file is generated
+nmnmnasdsdfgdk;agv va;dlkfga
 
 ## Acceptance Criteria
 
-It is done after set all questions Then the user respond each question by hinting enter to go to the next question untill he reached to the end of question. A Successful message will be displayed if there is no error and the file is created
+nm.,ndsfadg;agldsgjl;agds
 
 ## Installation
 
-There is no need of intalling this application. But in order to run the project node js is required and requirer 8.2.4 version must be installed in the computer
+njjhasdjgfjdsjghsagjhdshgasgda
 
 ## Usage
 
-Having a computer that could accept the installation of node js and requirer 8.2.4 version
+jjhasdgdgaskdjghjdshgalgjhdsag
 
 ## Github Repository Link
 
-[Github Repository Link](https://github.com/jahdona/Read-Me-Generator)
+[Github Repository Link](hhjaklgkfsdjg)
 
 ## License
 
 This application is under the License of MIT
 
+[![License Badge: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contact Me
 
-For further details contact me through phone +1(616)-441-9202 and on my Email: jahdonah7@gmail.com
+For further details contact me through phone ahjhk and on my Email: hjkafgdsh
 
 ## Authors and Contributors
 
-This application has developed and designed by Jean de Dieu Habiyaremye , a bootcamp student hosted by edx in partenership with MSU. This application was made possible through a set of advices and guidance from Tutor Jung and so as his Assistance
+hjahlkfgjsdhg
 
