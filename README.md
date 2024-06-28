@@ -16,6 +16,7 @@ Create a command-line application that dynamically generates a professional READ
 
 - [Authors and Contributors](#authors-and-contributors)
 - [License](#license)
+- [Test](#test)
 - [Github Repository Link](#github-repository-link)
 - [Google Drive Link Hosting the video](#google-drive-link-hosting-the-video)
 - [Contact Me](#contact-me)
@@ -87,9 +88,13 @@ For more details Click on License Badge
 
 ## Google Drive Link Hosting the video
 
-[Google Drive Link Hosting the video](https://drive.google.com/file/d/1p0e1obsKtF95S-tccRd2aOkST_7msgFd/view?usp=sharing)
+[Google Drive Link Hosting the video](https://drive.google.com/file/d/1yBJ49MEWRFv8AP27fWl3834qIog1pScw/view?usp=drive_link)
 
+## Test
 
+```
+In order to run a test type the following comnmnand in terminal: npm test
+```
 ## Contact Me
 
 ```md

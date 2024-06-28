@@ -4,7 +4,7 @@ const { writeFile } = require('fs').promises;
 
 
 // TODO: Create a function to write README file
-const createReadme = ({ gname, description, ustory, acceptance,installation,usage,githublink,email,phone,contributor,license}) => {  return `
+const createReadme = ({ gname, description, ustory, acceptance,installation,usage,githublink,email,phone,contributor,license,test}) => {  return `
 # ${gname}
 
 ## Description
@@ -22,6 +22,7 @@ ${description}
 
 - [Authors and Contributors](#authors-and-contributors)
 - [License](#license)
+- [Test](#test)
 - [Github Repository Link](#github-repository-link)
 - [Contact Me](#contact-me)
 
@@ -54,6 +55,10 @@ This application is under the License of ${license}
 
 Click on the license Badge for more details on the ${license}
 [![License Badge: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/${license})
+## Test
+
+In order to run test use command ${test}
+
 ## Contact Me
 
 For further details contact me through phone ${phone} and on my Email: ${email}
@@ -121,7 +126,11 @@ name: 'description'
   message:'What the license of this project ?',
   name:'license'
 },
-
+{
+  type:'input',
+  message:'What command do you use to run test ?',
+  name:'test'
+},
 ];
 const promptUser = () => {
     return inquirer
@@ -135,7 +144,7 @@ function init() {
       // Use writeFile method imported from fs.promises to use promises instead of
       // a callback function
       .then((answers) =>writeFile('GeneratedREADME.md', createReadme(answers)))
-      .then(() => console.log('Successfully wrote to Generated README File'))
+      .then(() => console.log('Successfully wrote to GeneratedREADME.md File'))
       .catch((err) => console.error(err));
 }
 
